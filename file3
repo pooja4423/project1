@@ -1,0 +1,3 @@
+git status used to check whether files are in workspace or stagging area or git repo.
+git add .
+git commit -m "msg"
